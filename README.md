@@ -1,10 +1,13 @@
 # myapp
 ## web
-<img width="1228" height="794" alt="image" src="https://github.com/user-attachments/assets/21270047-b528-46d8-81ed-01fb47db3006" />
+<img width="1219" height="793" alt="image" src="https://github.com/user-attachments/assets/1e6188ab-7fe7-407b-bb6c-f852a6d5fd1a" />
+
+
 
 ## android
 
-<img width="424" height="754" alt="image" src="https://github.com/user-attachments/assets/1c36a2c5-8c6c-40c0-9014-1980ca17285d" />
+<img width="431" height="755" alt="image" src="https://github.com/user-attachments/assets/fe8dc67d-9ce7-4d03-9b95-30909c1f88fb" />
+
 
 
 A new Flutter project.
